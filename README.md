@@ -1,7 +1,7 @@
 # Real-or-Not-NLP-with-Disaster-Tweets
 Predict which tweets are about real disasters and which ones are not
 
-# Competition Description
+#  Description
 Twitter has become an important communication channel in times of emergency.
 The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
 
@@ -17,6 +17,8 @@ In this competition, you’re challenged to build a machine learning model that 
 
 Disclaimer: The dataset for this competition contains text that may be considered profane, vulgar, or offensive.
 
+# Datasets I used  can be downloaded from kaggle
+https://www.kaggle.com/iamrahulramesh/real-or-not-sample-learning/?select=test.csv#data
 # Acknowledgments
 This dataset was created by the company figure-eight and originally shared on their ‘Data For Everyone’ website here.
 
